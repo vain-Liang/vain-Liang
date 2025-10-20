@@ -18,6 +18,9 @@
 
 - ⚡ **I am passionate about technology and believe it has the power to change lives, love exploring new ideas, tinkering with interesting projects, enjoy discussing knowledge with fellow tech enthusiasts.**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Connect with me:
 <p align="left">
 <a href="https://github.com/vain-Liang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vain-Liang" height="30" width="40" /></a>
