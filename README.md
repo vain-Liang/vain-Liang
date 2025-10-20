@@ -2,7 +2,7 @@
 
 ### A university student seeking internship and job opportunities
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vain-Liang&label=Profile views&color=0e75b6&style=flat" alt="vain-Liang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vain-Liang&color=blue&style=flat-square" alt="vain-Liang" /> </p>
 
 - 📘 Spoken Languages: **Chinese**(native), **English**(second)
 
