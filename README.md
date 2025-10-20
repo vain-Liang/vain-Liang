@@ -19,6 +19,79 @@
 - ⚡ **I am passionate about technology and believe it has the power to change lives, love exploring new ideas, tinkering with interesting projects, enjoy discussing knowledge with fellow tech enthusiasts.**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 10.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 24 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌆 Daytime                3 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌃 Evening                9 commits           █████████████████░░░░░░░░   69.23 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   7 commits           █████████████░░░░░░░░░░░░   53.85 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Thursday                 3 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Friday                   1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Saturday                 1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Go** 
+
+```text
+Go                       3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+PowerShell               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Kotlin                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/vain-Liang/vain-Liang/main/assets/bar_graph.png)
+
+
+ Last Updated on 20/10/2025 15:38:53 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
