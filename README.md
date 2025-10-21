@@ -125,6 +125,26 @@ Python                   1 repo              ████░░░░░░░�
   <img src="https://skillicons.dev/icons?i=powershell" height="60" width="60" alt="powershell logo" />
 </div>
 
+### Learning:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" width="60" alt="github actions logo" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" width="60" alt="redis logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" width="60" alt="PostgreSQL logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" width="60" alt="MongoDB logo" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" width="60" alt="GraphQL logo" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" width="60" alt="RabbitMQ logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" width="60" alt="tailwind css logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" width="60" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" width="60" alt="react framework logo" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" width="60" alt="angular framework logo" />
+  <img src="https://skillicons.dev/icons?i=electron" height="60" width="60" alt="electron framework logo" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" width="60" alt="sass logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" width="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" width="60" alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" width="60" alt="c plus plus logo" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" width="60" alt="rust logo" />
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vain-Liang&show_icons=true&locale=en&layout=compact" alt="vain-Liang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vain-Liang&show_icons=true&locale=en" alt="vain-Liang" /></p>
