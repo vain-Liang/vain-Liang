@@ -14,11 +14,6 @@
 
 ### A university student seeking internship and job opportunities
 
-
-
-
-
-
 - 📘 Spoken Languages: **Chinese**(native), **English**(second)
 
 - 🔭 I'm currently working on **a MSVN (MySQL, SpringBoot, Vue, Nodejs) project**
@@ -163,16 +158,27 @@ Python                   1 repo              ████░░░░░░░�
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+      srcset="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=compact&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact&theme=buefy"
+      srcset="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=compact&theme=buefy"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact" />
+    <img src="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=compact" />
   </picture>
 </div>
-![](https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=tokyonight#gh-dark-mode-only)
-![](https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=buefy#gh-light-mode-only)
 
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=buefy"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en" />
+  </picture>
+</div>
