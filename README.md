@@ -14,7 +14,10 @@
 
 ### A university student seeking internship and job opportunities
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vain-Liang&color=blue&style=pixel" alt="vain-Liang" /> </p>
+
+
+
+
 
 - 📘 Spoken Languages: **Chinese**(native), **English**(second)
 
@@ -157,10 +160,19 @@ Python                   1 repo              ████░░░░░░░�
   <img src="https://skillicons.dev/icons?i=rust" height="60" width="60" alt="rust logo" />
 </div>
 
-![](https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact&theme=tokyonight#gh-dark-mode-only)
-
-![](https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact&theme=buefy#gh-light-mode-only)
-
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact&theme=buefy"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact" />
+  </picture>
+</div>
 ![](https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=tokyonight#gh-dark-mode-only)
 ![](https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=buefy#gh-light-mode-only)
 
