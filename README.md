@@ -157,27 +157,10 @@ Python                   1 repo              ████░░░░░░░�
   <img src="https://skillicons.dev/icons?i=rust" height="60" width="60" alt="rust logo" />
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact&theme=toktonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact&theme=buefy"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact" />
-</picture>
+![](https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact&theme=toktonight#gh-dark-mode-only)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=toktonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=buefy"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en" />
-</picture>
+![](https://github-readme-stats.eternalbinary.site/api/top-langs/?username=vain-Liang&show_icons=true&locale=en&layout=compact&theme=buefy#gh-light-mode-only)
+
+![](https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=toktonight#gh-dark-mode-only)
+![](https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=buefy#gh-light-mode-only)
 
