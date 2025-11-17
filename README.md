@@ -1,14 +1,16 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.eternalbinary.site/api/pin?username=vain-Liang&repo=store&show_owner=true&theme=catppuccin_mocha"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&repo=store&show_owner=true&theme=catppuccin_latte"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&repo=store&show_owner=true" />
-</picture>
+<a href="https://github.com/vain-Liang/store">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.eternalbinary.site/api/pin?username=vain-Liang&repo=store&show_owner=true&theme=catppuccin_mocha"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&repo=store&show_owner=true&theme=catppuccin_latte"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&repo=store&show_owner=true" />
+  </picture>
+</a>
 
 # Hi 👋, I'm vain-Liang
 
