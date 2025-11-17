@@ -29,9 +29,7 @@
 - ⚡ **I am passionate about technology and believe it has the power to change lives, love exploring new ideas, tinkering with interesting projects, enjoy discussing knowledge with fellow tech enthusiasts.**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2039%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,21 +70,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PowerShell               49 mins             █████████████░░░░░░░░░░░░   53.64 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-TOML                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-INI                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-VBScript                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+YAML                     20 mins             ████████████████████░░░░░   79.85 % 
+JSON                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          54 mins             ███████████████░░░░░░░░░░   60.13 % 
-DouyinLiveRecorder       36 mins             ██████████░░░░░░░░░░░░░░░   39.87 % 
+Unknown Project          20 mins             ████████████████████░░░░░   79.85 % 
+scoop-cn                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -106,7 +101,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vain-Liang/vain-Liang/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2025 08:18:00 UTC
+ Last Updated on 17/11/2025 08:18:24 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
