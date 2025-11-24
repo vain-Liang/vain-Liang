@@ -31,13 +31,13 @@
 - ⚡ **I am passionate about technology and believe it has the power to change lives, love exploring new ideas, tinkering with interesting projects, enjoy discussing knowledge with fellow tech enthusiasts.**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.8 kB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2025
+> 🏆 34 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,20 +48,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                4 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌃 Evening                10 commits          ████████████████░░░░░░░░░   62.50 % 
+🌞 Morning                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌆 Daytime                4 commits           ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+🌃 Evening                11 commits          ████████████████░░░░░░░░░   64.71 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   8 commits           ████████████░░░░░░░░░░░░░   50.00 % 
-Tuesday                  1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Wednesday                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Thursday                 4 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Friday                   1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Saturday                 1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Monday                   9 commits           █████████████░░░░░░░░░░░░   52.94 % 
+Tuesday                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Thursday                 4 commits           ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -72,18 +72,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     20 mins             ████████████████████░░░░░   79.85 % 
-JSON                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          20 mins             ████████████████████░░░░░   79.85 % 
-scoop-cn                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -103,7 +101,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vain-Liang/vain-Liang/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2025 08:18:24 UTC
+ Last Updated on 24/11/2025 08:18:16 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
