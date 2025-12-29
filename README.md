@@ -72,17 +72,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 mins             ███████████████░░░░░░░░░░   58.25 % 
-YAML                     7 mins              ██████████░░░░░░░░░░░░░░░   41.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Web-Dev-For-Beginners    17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -102,7 +101,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vain-Liang/vain-Liang/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2025 08:19:51 UTC
+ Last Updated on 29/12/2025 08:20:11 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
