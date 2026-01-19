@@ -31,13 +31,13 @@
 - ⚡ **I am passionate about technology and believe it has the power to change lives, love exploring new ideas, tinkering with interesting projects, enjoy discussing knowledge with fellow tech enthusiasts.**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,14 +84,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Go** 
+**I Mostly Code in PowerShell** 
 
 ```text
-PowerShell               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+PowerShell               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -101,7 +101,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vain-Liang/vain-Liang/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 08:20:35 UTC
+ Last Updated on 19/01/2026 08:21:59 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
