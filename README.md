@@ -31,7 +31,7 @@
 - ⚡ **I am passionate about technology and believe it has the power to change lives, love exploring new ideas, tinkering with interesting projects, enjoy discussing knowledge with fellow tech enthusiasts.**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -72,16 +72,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   2 hrs 12 mins       ███████████████░░░░░░░░░░   60.16 % 
+Markdown                 1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+Java Properties          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+textmate                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Properties               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            3 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BiliRoamingX             3 hrs 26 mins       ███████████████████████░░   93.52 % 
+apktool-lib              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PowerShell** 
@@ -101,7 +106,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vain-Liang/vain-Liang/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2026 08:21:59 UTC
+ Last Updated on 26/01/2026 08:20:46 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
