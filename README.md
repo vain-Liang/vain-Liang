@@ -72,21 +72,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 12 mins       ███████████████░░░░░░░░░░   60.16 % 
-Markdown                 1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-Java Properties          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-textmate                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Properties               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BiliRoamingX             3 hrs 26 mins       ███████████████████████░░   93.52 % 
-apktool-lib              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PowerShell** 
@@ -106,7 +101,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vain-Liang/vain-Liang/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2026 08:20:46 UTC
+ Last Updated on 02/02/2026 08:32:31 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
