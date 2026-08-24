@@ -31,7 +31,7 @@
 - ⚡ **I am passionate about technology and believe it has the power to change lives, love exploring new ideas, tinkering with interesting projects, enjoy discussing knowledge with fellow tech enthusiasts.**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,11 +93,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in PowerShell** 
 
 ```text
-PowerShell               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PowerShell               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -107,7 +107,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vain-Liang/vain-Liang/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 08:31:37 UTC
+ Last Updated on 24/08/2026 08:36:31 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
