@@ -1,14 +1,14 @@
 <a href="https://github.com/vain-Liang/store">
   <picture>
     <source
-      srcset="https://github-readme-stats.eternalbinary.site/api/pin?username=vain-Liang&repo=store&show_owner=true&theme=catppuccin_mocha"
+      srcset="https://readme-stats.kronjt.online/api/pin?username=vain-Liang&repo=store&show_owner=true&theme=catppuccin_mocha"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&repo=store&show_owner=true&theme=catppuccin_latte"
+      srcset="https://readme-stats.kronjt.online/api?username=vain-Liang&repo=store&show_owner=true&theme=catppuccin_latte"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&repo=store&show_owner=true" />
+    <img src="readme-stats.kronjt.online/api?username=vain-Liang&repo=store&show_owner=true" />
   </picture>
 </a>
 
@@ -178,13 +178,13 @@ C#                       1 repo              ██░░░░░░░░░�
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=tokyonight"
+      srcset="https://readme-stats.kronjt.online/api?username=vain-Liang&show_icons=true&locale=en&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en&theme=buefy"
+      srcset="https://readme-stats.kronjt.online/api?username=vain-Liang&show_icons=true&locale=en&theme=buefy"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.eternalbinary.site/api?username=vain-Liang&show_icons=true&locale=en" />
+    <img src="https://readme-stats.kronjt.online/api?username=vain-Liang&show_icons=true&locale=en" />
   </picture>
 </div>
