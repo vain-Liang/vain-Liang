@@ -31,37 +31,37 @@
 - ⚡ **I am passionate about technology and believe it has the power to change lives, love exploring new ideas, tinkering with interesting projects, enjoy discussing knowledge with fellow tech enthusiasts.**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 12.6 kB Used in GitHub's Storage 
+> 📦 19.5 kB Used in GitHub's Storage 
  > 
-> 🏆 36 Contributions in the Year 2026
+> 🏆 39 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-🌆 Daytime                13 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                24 commits          ███████████████░░░░░░░░░░   61.54 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+🌆 Daytime                13 commits          ████████░░░░░░░░░░░░░░░░░   31.71 % 
+🌃 Evening                24 commits          ███████████████░░░░░░░░░░   58.54 % 
+🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   15 commits          ██████████░░░░░░░░░░░░░░░   38.46 % 
-Tuesday                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Wednesday                8 commits           █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Thursday                 6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Friday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Saturday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Monday                   15 commits          █████████░░░░░░░░░░░░░░░░   36.59 % 
+Tuesday                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Wednesday                8 commits           █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Thursday                 6 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Saturday                 5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -72,16 +72,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      2 mins              █████████████████████████   98.66 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+store                    2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,11 +95,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in PowerShell** 
 
 ```text
-PowerShell               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+PowerShell               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
@@ -107,7 +109,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vain-Liang/vain-Liang/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 14:33:52 UTC
+ Last Updated on 21/09/2026 14:41:24 UTC
 <!--END_SECTION:waka-->
 
 ### Connect with me:
